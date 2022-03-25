@@ -5,9 +5,9 @@ Then answer in the space below each question:
 
 1. Dylan
 
-2. Ta
+2. 
 
-3. Goldfish
+3. Salmon
 
 
 Now click the green 'commit changes' button at the bottom.
